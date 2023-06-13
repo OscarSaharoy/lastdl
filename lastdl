@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo -n "$HOME/Downloads/"
+ls -t "$HOME/Downloads" | head -n 1
