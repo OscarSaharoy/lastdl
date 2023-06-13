@@ -4,7 +4,6 @@ Put the lastdl script somewhere on your path:
 
 
     $ cat ~/bin/lastdl
-
     #!/usr/bin/env bash
     echo -n "$HOME/Downloads/"
     ls -t "$HOME/Downloads" | head -n 1
