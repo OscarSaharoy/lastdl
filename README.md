@@ -9,7 +9,7 @@ Put the lastdl script somewhere on your path:
     ls -t "$HOME/Downloads" | head -n 1
 
 
-You can use it like this, its really easily to manipulate your latest download.
+You can use it like this, its really easy to manipulate the latest download.
 
     $ lastdl
     /home/oscar/Downloads/photos-20230613.WxJw9t3d.zip.part
